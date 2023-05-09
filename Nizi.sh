@@ -1,0 +1,1 @@
+strings easy | grep ctf{
